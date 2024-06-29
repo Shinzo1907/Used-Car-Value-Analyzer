@@ -1,4 +1,4 @@
-# Used Car Price Prediction
+# used-car-value-analyzer
 
 This repository contains a machine learning project to predict the prices of used cars. We use various regression algorithms such as Decision Tree, Linear Regression, K-Nearest Neighbors (KNN), and Random Forest to build our predictive models.
 
